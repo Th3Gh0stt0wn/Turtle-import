@@ -1,0 +1,150 @@
+from turtle import *
+
+pensize(150)
+
+pencolor('magenta')
+
+for i in range (18):
+    forward(230)
+    backward(230)
+    right(20)
+
+pencolor('cyan')
+
+for i in range (18):
+    forward(220)
+    backward(220)
+    right(20)
+
+pencolor('yellow')
+
+for i in range (18):
+    forward(210)
+    backward(210)
+    right(20)
+
+pencolor('magenta')
+
+for i in range (18):
+    forward(200)
+    backward(200)
+    right(20)
+
+pencolor('cyan')
+
+for i in range (18):
+    forward(190)
+    backward(190)
+    right(20)
+
+pencolor('yellow')
+
+for i in range (18):
+    forward(180)
+    backward(180)
+    right(20)
+
+pencolor('magenta')
+
+for i in range (18):
+    forward(170)
+    backward(170)
+    right(20)
+
+pencolor('cyan')
+
+for i in range (18):
+    forward(160)
+    backward(160)
+    right(20)
+
+pencolor('yellow')
+
+for i in range (18):
+    forward(150)
+    backward(150)
+    right(20)
+
+pencolor('magenta')
+
+for i in range (18):
+    forward(140)
+    backward(140)
+    right(20)
+
+pencolor('cyan')
+
+for i in range (18):
+    forward(130)
+    backward(130)
+    right(20)
+
+pencolor('yellow')
+
+for i in range (18):
+    forward(120)
+    backward(120)
+    right(20)
+    
+pencolor('magenta')
+
+for i in range (18):
+    forward(110)
+    backward(110)
+    right(20)
+
+pencolor('cyan')
+
+for i in range (18):
+    forward(100)
+    backward(100)
+    right(20)
+
+pencolor('yellow')
+
+for i in range (18):
+    forward(90)
+    backward(90)
+    right(20)
+    
+pencolor('magenta')
+
+for i in range (18):
+    forward(80)
+    backward(80)
+    right(20)
+
+pencolor('cyan')
+
+for i in range (18):
+    forward(70)
+    backward(70)
+    right(20)
+
+pencolor('yellow')
+
+for i in range (18):
+    forward(60)
+    backward(60)
+    right(20)
+    
+pencolor('magenta')
+
+for i in range (18):
+    forward(50)
+    backward(50)
+    right(20)
+
+pencolor('cyan')
+
+for i in range (18):
+    forward(40)
+    backward(40)
+    right(20)
+
+pencolor('yellow')
+
+for i in range (18):
+    forward(30)
+    backward(30)
+    right(20)
